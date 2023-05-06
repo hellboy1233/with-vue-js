@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "name": "vmfbn",
+      "email": "aasfjh99@gmail.com",
+      "password": "sssss",
+      "id": 1
+    },
+    {
+      "name": "Hell king",
+      "email": "hell99@gmail.com",
+      "password": "sssss",
+      "id": 2
+    },
+    {
+      "name": "boka",
+      "email": "bokah99@gmail.com",
+      "password": "sssss",
+      "id": 3
+    },
+    {
+      "name": "boke",
+      "email": "aasfjh99@gmail.com",
+      "password": "sssss",
+      "id": 4
+    },
+    {
+      "name": "mole",
+      "email": "mole9@gmail.com",
+      "password": "sssss",
+      "id": 5
+    },
+    {
+      "name": "ayusg",
+      "email": "aasfjh99@gmail.com",
+      "password": "sssss",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Himalayan  times",
+      "address": "chinch pokle",
+      "contact": "98534333",
+      "id": 1
+    },
+    {
+      "name": "Hell king",
+      "address": "98534333",
+      "contact": "98534333",
+      "id": 2
+    },
+    {
+      "name": "rakesh s",
+      "address": "Sanopokhara",
+      "contact": "98534333",
+      "id": 3
+    },
+    {
+      "name": "Hell king",
+      "address": "sdn,",
+      "contact": "ayush",
+      "id": 4
+    },
+    {
+      "name": "samixa",
+      "address": "chinch pokle",
+      "contact": "ayush",
+      "id": 5
+    }
+  ]
+}
